@@ -1,5 +1,8 @@
 [ignore]
 
+[declarations]
+<PROJECT_ROOT>/node_modules/.*
+
 [include]
 
 [libs]
